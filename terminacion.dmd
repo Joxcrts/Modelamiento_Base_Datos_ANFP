@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="terminacion" id="9F088B6A-6AFB-DAA6-34A6-A0EB74604F77" version="3.5">
+<createdBy>Jocrts</createdBy>
+<createdTime>2026-10-08 01:36:20 UTC</createdTime>
+<ownerDesignName>terminacion</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9F088B6A-6AFB-DAA6-34A6-A0EB74604F77</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="C65A5AD7-6D05-76D9-4A03-1F3691DC51F8">
+<designStoragePath>C:\PRY2204_S9_1_modelo_DDL</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="6F68D948-2082-A013-3570-E1CD0E117973">
+<designStoragePath>C:\PRY2204_S9_1_modelo_DDL</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
